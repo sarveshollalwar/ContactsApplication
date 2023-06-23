@@ -1,3 +1,4 @@
+//uses File handling concepts in java
 import java.io.*;
 import java.util.Scanner;
 
